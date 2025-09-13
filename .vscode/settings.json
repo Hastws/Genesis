@@ -24,7 +24,7 @@
         "**/__pycache__/**": true
     },
     "editor.rulers": [
-        100
+        128
     ],
     "files.trimTrailingWhitespace": true,
     "python.analysis.logLevel": "Trace",
