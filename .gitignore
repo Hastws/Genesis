@@ -1,3 +1,8 @@
+# operator system
 .DS_Store
 
+# project
 /replay
+
+# application
+__pycache__/
